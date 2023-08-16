@@ -1,6 +1,6 @@
 
 #  E-Commerce Application  - React JS / Stripe / OAuth2.0
- 
+  
 
 # [Click here to visit the website](https://idyllic-monstera-e1d301.netlify.app) 
 
