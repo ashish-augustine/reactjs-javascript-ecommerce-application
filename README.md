@@ -17,7 +17,6 @@ Then visit the url http://localhost:3000/
 # Tech Stack
 ReactJS, Router, Redux, Styled Components, Oauth 2.0 &  Stripe Payments. 
 
-This is the ReactJS version of the e-commerce app. 
 
 # Screenshots:
 
