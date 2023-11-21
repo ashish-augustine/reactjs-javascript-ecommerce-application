@@ -2,7 +2,7 @@
 #  E-Commerce Application  - React JS / Stripe / OAuth2.0
   
 
-# [Click here to visit the website](https://idyllic-monstera-e1d301.netlify.app) 
+# [Click here to visit the website](https://venerable-cocada-4069b3.netlify.app/) 
 
 # Available Scripts
 
