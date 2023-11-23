@@ -4,19 +4,6 @@
 
 # [Click here to visit the website](https://venerable-cocada-4069b3.netlify.app/) 
 
-# Available Scripts
-
-```sh
-npm install && npm start
-```
-
-Then visit the url http://localhost:3000/
-
-
-
-# Tech Stack
-ReactJS, Router, Redux, Styled Components, Oauth 2.0 &  Stripe Payments. 
-
 
 # Screenshots:
 
@@ -29,6 +16,19 @@ ReactJS, Router, Redux, Styled Components, Oauth 2.0 &  Stripe Payments.
 ![checkout](https://user-images.githubusercontent.com/2153396/235770598-23e14241-876e-4f0d-a832-df0431b36512.png)
 
 
+
+# Available Scripts
+
+```sh
+npm install && npm start
+```
+
+Then visit the url http://localhost:3000/
+
+
+
+# Tech Stack
+ReactJS, Router, Redux, Styled Components, Oauth 2.0 &  Stripe Payments. 
 
  
 
