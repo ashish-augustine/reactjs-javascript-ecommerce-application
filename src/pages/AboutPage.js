@@ -15,11 +15,17 @@ const AboutPage = () => {
             <div className="underline"></div>
           </div>
           <p>
-            You can customise and buy your desired furniture from our portal. This is an e-commerce application listing a range of furniture
-            products for home & office. The products can be filtered on the
-            basis of their Category, Company, Colour, Price & Shipping Charges.
-            The products can be added to the cart and then proceeded to
-            checkout.
+            Hello! Welcome. We’re so glad you’re here.
+
+You can find us — the Target Team — at your favorite store, in your community, across the country and around the world. There are more than 400,000 team members across the globe, all working together for one important reason…
+    To help all families discover the joy of everyday life.
+
+That’s our purpose. Our mission. The promise of surprises, fun, ease and inspiration at every turn, no matter when, where or how you shop.
+
+That quest to bring joy is at the center of every business decision we make. It gets our teams excited to come to work each day. And we bring it to life in so many ways.
+
+
+      
           </p>
         </article>
       </Wrapper>
