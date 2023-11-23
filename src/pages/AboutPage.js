@@ -24,7 +24,8 @@ That’s our purpose. Our mission. The promise of surprises, fun, ease and inspi
 
 That quest to bring joy is at the center of every business decision we make. It gets our teams excited to come to work each day. And we bring it to life in so many ways.
 
-
+<br/>
+      We’re dedicated to being a good neighbor and working with our communities and partners to make life a little better everywhere we do business. Come on in and take a look around.
       
           </p>
         </article>
