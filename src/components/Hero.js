@@ -9,8 +9,8 @@ const Hero = () => {
     <Wrapper className="section-center">
       <article className="content">
         <h1>
-          design your <br />
-          comfort zone
+          buy your <br />
+          furniture online
         </h1>
         <p>
           This is an e-commerce application built using React JS, listing a range of furniture products for home & office. The
