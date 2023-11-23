@@ -15,7 +15,7 @@ const Hero = () => {
         <p>
           You can customise & buy furniture
     from our online store.  A one stop solution for designing & decorating your home! This is an e-commerce application listing a range of furniture products for home & office. The products can be filtered on the basis of their Category, Company, Colour, Price & Shipping Charges. The products can be
-          added to the cart and then proceeded to the checkout. The checkout which is integrated with Stripe payments allows you to pay with your Debit / Credit cards.
+          added to the cart and then proceeded to the checkout. The checkout allows you to pay with your Debit / Credit cards using Stripe payments.
         </p>
         <Link to="/products" className="btn hero-btn">
           shop now
