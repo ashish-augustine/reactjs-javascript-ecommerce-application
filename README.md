@@ -1,5 +1,5 @@
  
-#  E-Commerce Application  - React JS / Stripe / OAuth2.0
+#  E-Commerce Application  - React JS / JavaScript / Stripe / OAuth2.0
   
 
 # [Click here to visit the website](https://venerable-cocada-4069b3.netlify.app/) 
