@@ -1,5 +1,6 @@
  
-#  E-Commerce Application  - Node JS / React JS / JavaScript / Stripe / OAuth2.0
+#  E-Commerce Application  
+# Node JS / React JS / JavaScript / Stripe / OAuth2.0
 
 
 
