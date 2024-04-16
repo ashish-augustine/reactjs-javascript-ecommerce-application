@@ -1,6 +1,6 @@
  
 #  E-Commerce Application  
-# Node JS / React JS / JavaScript / Stripe / OAuth2.0
+# Techstack : Node JS / React JS / JavaScript / Stripe / OAuth2.0
 
 
 
