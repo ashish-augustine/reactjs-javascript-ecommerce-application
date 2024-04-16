@@ -1,12 +1,7 @@
  
-#  E-Commerce Application  - React JS / JavaScript / Stripe Payment / OAuth2.0
+#  E-Commerce Application  - Node JS / React JS / JavaScript / Stripe Payment / OAuth2.0
 
-Techstack
-#### Node JS
-#### React JS 
-#### JavaScript 
-#### Stripe Payment 
-#### OAuth2.0
+
 
   
  This is an e-commerce application for purchasing home decor built using React & JavaScript. 
