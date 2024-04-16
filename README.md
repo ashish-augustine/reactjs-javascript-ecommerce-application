@@ -1,6 +1,11 @@
  
 #  E-Commerce Application  - React JS / JavaScript / Stripe Payment / OAuth2.0
   
+### This is an e-commerce application for home decor built using React & JavaScript. 
+### The products can be filtered on the basis of their Category, Company, Colour, Price & Shipping Charges. 
+### The products can be added to the cart and then proceeded to the checkout. 
+### The checkout allows you to pay with your Debit / Credit cards using Stripe payments.
+
 
 # [Click here to visit the website](https://venerable-cocada-4069b3.netlify.app/) 
 
