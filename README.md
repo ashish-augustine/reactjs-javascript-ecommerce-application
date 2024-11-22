@@ -1,6 +1,6 @@
  
 #  E-Commerce Application  
-## Techstack : React JS / JavaScript / Spring Boot / Stripe / OAuth2.0
+## Techstack : React / JavaScript / Spring Boot / Stripe / OAuth2.0
 
 
 
