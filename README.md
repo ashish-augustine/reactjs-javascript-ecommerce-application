@@ -34,7 +34,7 @@ Then visit the url http://localhost:3000/
 
 
 # Tech Stack
-### Front end: React, Router, Redux, Styled Components, Oauth 2.0, React Query, Axios, Stripe Payments. 
+### Front end: React, Router, Redux, Styled Components, Oauth 2.0, React Query, Axios, Stripe
 
 
  
