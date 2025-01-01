@@ -10,9 +10,7 @@
  The products can be added to the cart and then proceeded to the checkout. The checkout allows you to pay with your Debit / Credit cards using Stripe payments.
  
 
-
-# Tech Stack
-React, Router, Redux, Styled Components, Oauth 2.0, React Query, Axios, Stripe
+ 
  
 # Screenshots: 
 
